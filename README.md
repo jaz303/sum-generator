@@ -1,6 +1,8 @@
 # sum-generator
 
-A Ruby script to generate an HTML document containing simple maths problems
+A Ruby script to generate an HTML document containing simple maths problems. They look like this:
+
+![Screenshot](screenshot.png)
 
 ## Usage
 
